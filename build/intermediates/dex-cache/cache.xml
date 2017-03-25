@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Chema Egea Canales\.android\build-cache\f5d2780c228b8b90bba3c55fa31c0e5520f9b667\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="09adf6e61abc0fe3b2cb5b1795a7033572475fad">
+        <dex dex="C:\Users\Chema Egea Canales\Desktop\TankGL\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_84761f30af1d3e481f04b07fed315b31a6e6cd26\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Chema Egea Canales\.android\build-cache\8a25ef7070ea98b0e0b73803782b6061c25802d6\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Chema Egea Canales\Desktop\TankGL\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_bb16557123024a622a6518de7b5609eb6afff8df\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Chema Egea Canales\.android\build-cache\a4937779cbf78d34e82959347a81fa0a74097c63\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="518768f3200963fbfec652f498da2c9d39245234">
+        <dex dex="C:\Users\Chema Egea Canales\Desktop\TankGL\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d0abe49d0cf5f038c5b3c2e75ffc1c051a41bb1b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\SoftwareInstalado\Android\AndroidSDK\extras\android\m2repository\com\android\support\support-annotations\25.3.0\support-annotations-25.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="dd84903d2e1af25a6081ef9038ad863cb14ca3a0">
+        <dex dex="C:\Users\Chema Egea Canales\Desktop\TankGL\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.3.0_d9c6e3e83d87a919323cfea7368545dc8b33fe48\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Chema Egea Canales\.android\build-cache\f5f40e039b726f614d5559cc0875a3bdaf3d306c\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="93c10d68ab5ea070f15782ae6d3a28d1f1d8f45e">
+        <dex dex="C:\Users\Chema Egea Canales\Desktop\TankGL\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_bc014fec913c5e75566c68bb21e5688b67536f39\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Chema Egea Canales\.android\build-cache\3a4ed584df7966bea120ec0ce95c947e40a40a90\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="425c7b17887e5c3f8cbdf67ba171bc246f29b42c">
+        <dex dex="C:\Users\Chema Egea Canales\Desktop\TankGL\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_8cda216a712db851e7f69d4d449b4047ee2fb6a1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Chema Egea Canales\.android\build-cache\e13cec29b652d3e574cb54f310a19095765d090d\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="70f23cb87278f89aa51e6f57e8f0fd5266572d95">
+        <dex dex="C:\Users\Chema Egea Canales\Desktop\TankGL\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a25b2ec4c9df8c6a5c14eb68118c62d25cd82eaa\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Chema Egea Canales\Desktop\TankGL\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="C:\Users\Chema Egea Canales\Desktop\TankGL\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_485bcbe83cc2e6bb5645b6f50886ba2335af37f0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Chema Egea Canales\.android\build-cache\dbf499f23f852fd2833c8dd8f1b2ffa7159dd0e1\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d6a04527c17597019dad82777c5094a3d60d1c33">
+        <dex dex="C:\Users\Chema Egea Canales\Desktop\TankGL\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_41f6110e85df8036995995abb7496326cbb7d2d5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Chema Egea Canales\.android\build-cache\6e461851251fcfd1896d2dd8e26404dbcba4b817\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="93c1199fcb0a34b980e6fff8350daff62e696ec2">
+        <dex dex="C:\Users\Chema Egea Canales\Desktop\TankGL\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_758d3ea0c5625d4000874c8d5f8274d4747d8b44\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Chema Egea Canales\.android\build-cache\0bef94645d005091fb2853cbe62b6c4cb7d13611\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5cc5ef8347a6bafa14556cbd35230aa9b3431bb0">
+        <dex dex="C:\Users\Chema Egea Canales\Desktop\TankGL\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_8208a4373d47817b5b8757cc4dbd990faa86234b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Chema Egea Canales\.android\build-cache\5dc15105803760ce2ef790dc738f1ce80d1932c6\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4b746ef0fd46acb5aaf3d9ab9a4cec22c28d3211">
+        <dex dex="C:\Users\Chema Egea Canales\Desktop\TankGL\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_01ca7eada896f75011d3aa818267593fb508620b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Chema Egea Canales\Desktop\TankGL\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a2d0970f59701657d179e4307ce327f8bb3d3cbd">
+        <dex dex="C:\Users\Chema Egea Canales\Desktop\TankGL\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_1593a45d7549588ebd7465b37840f43e0c1c1ca6\classes.dex" />
+    </item>
+
+</items>

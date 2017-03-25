@@ -1,0 +1,126 @@
+[
+    {
+        "merged": "C:\\Users\\Chema Egea Canales\\Desktop\\TankGL\\app\\build\\intermediates\\res\\merged\\debug\\raw\\esfera2.3ds",
+        "source": "C:\\Users\\Chema Egea Canales\\Desktop\\TankGL\\app\\src\\main\\res\\raw\\esfera2.3ds"
+    },
+    {
+        "merged": "C:\\Users\\Chema Egea Canales\\Desktop\\TankGL\\app\\build\\intermediates\\res\\merged\\debug\\raw\\texture_vertex_shader.glsl",
+        "source": "C:\\Users\\Chema Egea Canales\\Desktop\\TankGL\\app\\src\\main\\res\\raw\\texture_vertex_shader.glsl"
+    },
+    {
+        "merged": "C:\\Users\\Chema Egea Canales\\Desktop\\TankGL\\app\\build\\intermediates\\res\\merged\\debug\\raw\\specular_vertex_shader.glsl",
+        "source": "C:\\Users\\Chema Egea Canales\\Desktop\\TankGL\\app\\src\\main\\res\\raw\\specular_vertex_shader.glsl"
+    },
+    {
+        "merged": "C:\\Users\\Chema Egea Canales\\Desktop\\TankGL\\app\\build\\intermediates\\res\\merged\\debug\\raw\\diffuse_fragment_shader.glsl",
+        "source": "C:\\Users\\Chema Egea Canales\\Desktop\\TankGL\\app\\src\\main\\res\\raw\\diffuse_fragment_shader.glsl"
+    },
+    {
+        "merged": "C:\\Users\\Chema Egea Canales\\Desktop\\TankGL\\app\\build\\intermediates\\res\\merged\\debug\\raw\\touareg.3ds",
+        "source": "C:\\Users\\Chema Egea Canales\\Desktop\\TankGL\\app\\src\\main\\res\\raw\\touareg.3ds"
+    },
+    {
+        "merged": "C:\\Users\\Chema Egea Canales\\Desktop\\TankGL\\app\\build\\intermediates\\res\\merged\\debug\\raw\\tanquecuerpo.3DS",
+        "source": "C:\\Users\\Chema Egea Canales\\Desktop\\TankGL\\app\\src\\main\\res\\raw\\tanquecuerpo.3DS"
+    },
+    {
+        "merged": "C:\\Users\\Chema Egea Canales\\Desktop\\TankGL\\app\\build\\intermediates\\res\\merged\\debug\\raw\\tanquetorreta.3DS",
+        "source": "C:\\Users\\Chema Egea Canales\\Desktop\\TankGL\\app\\src\\main\\res\\raw\\tanquetorreta.3DS"
+    },
+    {
+        "merged": "C:\\Users\\Chema Egea Canales\\Desktop\\TankGL\\app\\build\\intermediates\\res\\merged\\debug\\raw\\tanquetransparente.3DS",
+        "source": "C:\\Users\\Chema Egea Canales\\Desktop\\TankGL\\app\\src\\main\\res\\raw\\tanquetransparente.3DS"
+    },
+    {
+        "merged": "C:\\Users\\Chema Egea Canales\\Desktop\\TankGL\\app\\build\\intermediates\\res\\merged\\debug\\raw\\torus.3ds",
+        "source": "C:\\Users\\Chema Egea Canales\\Desktop\\TankGL\\app\\src\\main\\res\\raw\\torus.3ds"
+    },
+    {
+        "merged": "C:\\Users\\Chema Egea Canales\\Desktop\\TankGL\\app\\build\\intermediates\\res\\merged\\debug\\raw\\tanquecompleto.3DS",
+        "source": "C:\\Users\\Chema Egea Canales\\Desktop\\TankGL\\app\\src\\main\\res\\raw\\tanquecompleto.3DS"
+    },
+    {
+        "merged": "C:\\Users\\Chema Egea Canales\\Desktop\\TankGL\\app\\build\\intermediates\\res\\merged\\debug\\raw\\cubo.3ds",
+        "source": "C:\\Users\\Chema Egea Canales\\Desktop\\TankGL\\app\\src\\main\\res\\raw\\cubo.3ds"
+    },
+    {
+        "merged": "C:\\Users\\Chema Egea Canales\\Desktop\\TankGL\\app\\build\\intermediates\\res\\merged\\debug\\raw\\tierra.3ds",
+        "source": "C:\\Users\\Chema Egea Canales\\Desktop\\TankGL\\app\\src\\main\\res\\raw\\tierra.3ds"
+    },
+    {
+        "merged": "C:\\Users\\Chema Egea Canales\\Desktop\\TankGL\\app\\build\\intermediates\\res\\merged\\debug\\raw\\suelo.3ds",
+        "source": "C:\\Users\\Chema Egea Canales\\Desktop\\TankGL\\app\\src\\main\\res\\raw\\suelo.3ds"
+    },
+    {
+        "merged": "C:\\Users\\Chema Egea Canales\\Desktop\\TankGL\\app\\build\\intermediates\\res\\merged\\debug\\raw\\specular_fragment_shader2.glsl",
+        "source": "C:\\Users\\Chema Egea Canales\\Desktop\\TankGL\\app\\src\\main\\res\\raw\\specular_fragment_shader2.glsl"
+    },
+    {
+        "merged": "C:\\Users\\Chema Egea Canales\\Desktop\\TankGL\\app\\build\\intermediates\\res\\merged\\debug\\raw\\specular_vertex_shader2.glsl",
+        "source": "C:\\Users\\Chema Egea Canales\\Desktop\\TankGL\\app\\src\\main\\res\\raw\\specular_vertex_shader2.glsl"
+    },
+    {
+        "merged": "C:\\Users\\Chema Egea Canales\\Desktop\\TankGL\\app\\build\\intermediates\\res\\merged\\debug\\raw\\texture_fragment_shader.glsl",
+        "source": "C:\\Users\\Chema Egea Canales\\Desktop\\TankGL\\app\\src\\main\\res\\raw\\texture_fragment_shader.glsl"
+    },
+    {
+        "merged": "C:\\Users\\Chema Egea Canales\\Desktop\\TankGL\\app\\build\\intermediates\\res\\merged\\debug\\raw\\triangulos_control_vertex_shader.glsl",
+        "source": "C:\\Users\\Chema Egea Canales\\Desktop\\TankGL\\app\\src\\main\\res\\raw\\triangulos_control_vertex_shader.glsl"
+    },
+    {
+        "merged": "C:\\Users\\Chema Egea Canales\\Desktop\\TankGL\\app\\build\\intermediates\\res\\merged\\debug\\raw\\batmobile.3ds",
+        "source": "C:\\Users\\Chema Egea Canales\\Desktop\\TankGL\\app\\src\\main\\res\\raw\\batmobile.3ds"
+    },
+    {
+        "merged": "C:\\Users\\Chema Egea Canales\\Desktop\\TankGL\\app\\build\\intermediates\\res\\merged\\debug\\raw\\mono_hd.3ds",
+        "source": "C:\\Users\\Chema Egea Canales\\Desktop\\TankGL\\app\\src\\main\\res\\raw\\mono_hd.3ds"
+    },
+    {
+        "merged": "C:\\Users\\Chema Egea Canales\\Desktop\\TankGL\\app\\build\\intermediates\\res\\merged\\debug\\raw\\diffuse_vertex_shader.glsl",
+        "source": "C:\\Users\\Chema Egea Canales\\Desktop\\TankGL\\app\\src\\main\\res\\raw\\diffuse_vertex_shader.glsl"
+    },
+    {
+        "merged": "C:\\Users\\Chema Egea Canales\\Desktop\\TankGL\\app\\build\\intermediates\\res\\merged\\debug\\raw\\t90a.3ds",
+        "source": "C:\\Users\\Chema Egea Canales\\Desktop\\TankGL\\app\\src\\main\\res\\raw\\t90a.3ds"
+    },
+    {
+        "merged": "C:\\Users\\Chema Egea Canales\\Desktop\\TankGL\\app\\build\\intermediates\\res\\merged\\debug\\raw\\triangulos_control_fragment_shader.glsl",
+        "source": "C:\\Users\\Chema Egea Canales\\Desktop\\TankGL\\app\\src\\main\\res\\raw\\triangulos_control_fragment_shader.glsl"
+    },
+    {
+        "merged": "C:\\Users\\Chema Egea Canales\\Desktop\\TankGL\\app\\build\\intermediates\\res\\merged\\debug\\raw\\tanqueruedas.3DS",
+        "source": "C:\\Users\\Chema Egea Canales\\Desktop\\TankGL\\app\\src\\main\\res\\raw\\tanqueruedas.3DS"
+    },
+    {
+        "merged": "C:\\Users\\Chema Egea Canales\\Desktop\\TankGL\\app\\build\\intermediates\\res\\merged\\debug\\raw\\mono.3ds",
+        "source": "C:\\Users\\Chema Egea Canales\\Desktop\\TankGL\\app\\src\\main\\res\\raw\\mono.3ds"
+    },
+    {
+        "merged": "C:\\Users\\Chema Egea Canales\\Desktop\\TankGL\\app\\build\\intermediates\\res\\merged\\debug\\raw\\tanqueruedas2.3ds",
+        "source": "C:\\Users\\Chema Egea Canales\\Desktop\\TankGL\\app\\src\\main\\res\\raw\\tanqueruedas2.3ds"
+    },
+    {
+        "merged": "C:\\Users\\Chema Egea Canales\\Desktop\\TankGL\\app\\build\\intermediates\\res\\merged\\debug\\raw\\simple_fragment_shader.glsl",
+        "source": "C:\\Users\\Chema Egea Canales\\Desktop\\TankGL\\app\\src\\main\\res\\raw\\simple_fragment_shader.glsl"
+    },
+    {
+        "merged": "C:\\Users\\Chema Egea Canales\\Desktop\\TankGL\\app\\build\\intermediates\\res\\merged\\debug\\raw\\specular_fragment_shader.glsl",
+        "source": "C:\\Users\\Chema Egea Canales\\Desktop\\TankGL\\app\\src\\main\\res\\raw\\specular_fragment_shader.glsl"
+    },
+    {
+        "merged": "C:\\Users\\Chema Egea Canales\\Desktop\\TankGL\\app\\build\\intermediates\\res\\merged\\debug\\raw\\esfera.3ds",
+        "source": "C:\\Users\\Chema Egea Canales\\Desktop\\TankGL\\app\\src\\main\\res\\raw\\esfera.3ds"
+    },
+    {
+        "merged": "C:\\Users\\Chema Egea Canales\\Desktop\\TankGL\\app\\build\\intermediates\\res\\merged\\debug\\raw\\suelo2.3DS",
+        "source": "C:\\Users\\Chema Egea Canales\\Desktop\\TankGL\\app\\src\\main\\res\\raw\\suelo2.3DS"
+    },
+    {
+        "merged": "C:\\Users\\Chema Egea Canales\\Desktop\\TankGL\\app\\build\\intermediates\\res\\merged\\debug\\raw\\simple_vertex_shader.glsl",
+        "source": "C:\\Users\\Chema Egea Canales\\Desktop\\TankGL\\app\\src\\main\\res\\raw\\simple_vertex_shader.glsl"
+    },
+    {
+        "merged": "C:\\Users\\Chema Egea Canales\\Desktop\\TankGL\\app\\build\\intermediates\\res\\merged\\debug\\raw\\mono2.3ds",
+        "source": "C:\\Users\\Chema Egea Canales\\Desktop\\TankGL\\app\\src\\main\\res\\raw\\mono2.3ds"
+    }
+]
